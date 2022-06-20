@@ -8,11 +8,6 @@
 | ----------- | ----------- | ---- | ---- | ---- | ---- | ---- | ----
 | <figure><img src="images\php-svgrepo-com.svg"></figure> | <figure><img src="images\logo-python-svgrepo-com.svg"></figure> | <figure><img src="images\java-svgrepo-com.svg"></figure> | <figure><img src="images\js-svgrepo-com.svg"></figure> | <figure><img src="images\laravel-svgrepo-com.svg"></figure> | <figure><img src="images\react-svgrepo-com.svg"></figure> | <figure><img src="images\symfony-svgrepo-com.svg"></figure> | <figure><img src="images\angular-svgrepo-com.svg"></figure> |
 
-## Technologies I Learned
-
-<figure><img src="images\go-svgrepo-com.svg"></figure>  <figure><img src="images\vue-9-logo-svgrepo-com.svg"></figure> 
-
-
 
 
 
