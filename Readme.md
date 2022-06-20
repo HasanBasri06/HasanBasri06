@@ -10,9 +10,7 @@
 
 ## Technologies I Learned
 
-| Go | Vue |
-| ----------- | ----------- | 
-| <figure><img src="images\go-svgrepo-com.svg"></figure> | <figure><img src="images\vue-9-logo-svgrepo-com.svg"></figure> |
+<figure><img src="images\go-svgrepo-com.svg"></figure>  <figure><img src="images\vue-9-logo-svgrepo-com.svg"></figure> 
 
 
 
