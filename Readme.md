@@ -4,10 +4,10 @@
 
 ## Technologies I Use
 
-| Php | Python | Java | JavaScript | Laravel | React | Symfony | Angular | 
-| ----------- | ----------- | ---- | ---- | ---- | ---- | ---- | ----
+| Php | JavaScript | Laravel | 
+| ----------- | ----------- | ---- | 
 | <figure><img src="images\php-svgrepo-com.svg"></figure> | <figure><img src="images\js-svgrepo-com.svg"></figure> | <figure><img src="images\laravel-svgrepo-com.svg"></figure> |
-
+ 
 
 
 
