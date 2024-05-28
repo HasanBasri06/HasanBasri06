@@ -4,9 +4,9 @@
 
 ## Technologies I Use
 
-| Php | JavaScript | Laravel | 
+| Php | JavaScript | Laravel | Git
 | ----------- | ----------- | ---- | 
-| <figure><img src="images\php-svgrepo-com.svg"></figure> | <figure><img src="images\js-svgrepo-com.svg"></figure> | <figure><img src="images\laravel-svgrepo-com.svg"></figure> |
+| <figure><img src="images\php-svgrepo-com.svg"></figure> | <figure><img src="images\js-svgrepo-com.svg"></figure> | <figure><img src="images\laravel-svgrepo-com.svg"></figure> | <figure><img src="images\18133.png"></figure>
  
 
 
